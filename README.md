@@ -1,7 +1,6 @@
 [![banner_image](https://github.com/moinul-hossain-dhrubo/moinul-hossain-dhrubo/assets/122023969/c6b1f449-71df-4469-a929-584bc9ee14dd)]
 <h1 align="center">Hi 👋, I'm Moinul Hossain Dhrubo</h1>
 <h3 align="center">A data enthusiast from Bangladesh who enjoys gathering, organizing, evaluating, visualizing, and utilizing data to train machines.</h3>
-<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/how-to-excel-in-data-science/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinul-hossain-dhrubo&label=Profile%20views&color=0e75b6&style=flat" alt="moinul-hossain-dhrubo" /> </p>
 
