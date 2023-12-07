@@ -1,4 +1,4 @@
-[![banner_image](https://github.com/moinul-hossain-dhrubo/moinul-hossain-dhrubo/assets/122023969/c6b1f449-71df-4469-a929-584bc9ee14dd)]
+![banner_image](https://github.com/moinul-hossain-dhrubo/moinul-hossain-dhrubo/assets/122023969/c6b1f449-71df-4469-a929-584bc9ee14dd)
 <h1 align="center">Hi 👋, I'm Moinul Hossain Dhrubo</h1>
 <h3 align="center">A data enthusiast from Bangladesh who enjoys gathering, organizing, evaluating, visualizing, and utilizing data to train machines.</h3>
 
