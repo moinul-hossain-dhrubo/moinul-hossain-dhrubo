@@ -8,11 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [https://mhdhrubo.carrd.co/](https://mhdhrubo.carrd.co/)
 
-- 📫 How to reach me **moinulhossain00@gmail.com**
+- 📫 How to reach me : **moinulhossain00@gmail.com**
 
 - 📄 Know about my experiences [in this Resume](https://docs.google.com/document/d/18WHfWV4eACsocebj1qMJyUE5gNllL-rBMVwmqEwU3OE/edit)
 
-- ⚡ Fun fact **I am a rated chess player of FIDE(International Chess Federation)**
+- ⚡ Fun fact : **I am a rated chess player of FIDE(International Chess Federation)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
