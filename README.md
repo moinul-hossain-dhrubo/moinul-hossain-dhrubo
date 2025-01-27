@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/mhdhrubo46" target="blank"><img src="https://img.shields.io/twitter/follow/mhdhrubo46?logo=twitter&style=for-the-badge" alt="mhdhrubo46" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://mhdhrubo.carrd.co/](https://mhdhrubo.carrd.co/)
+- 👨‍💻 Visit my [Personal Website](https://moinul-hossain-dhrubo.github.io/)
 
 - 📫 How to reach me : **moinulhossain00@gmail.com**
 
-- 📄 Know about my experiences [in this Resume](https://docs.google.com/document/d/18WHfWV4eACsocebj1qMJyUE5gNllL-rBMVwmqEwU3OE/edit)
+- 📄 Know about my experiences [Here](https://moinul-hossain-dhrubo.github.io/portfolio_pages/computer-data-ai/index.html)
 
 - ⚡ Fun fact : **I am a rated chess player of FIDE(International Chess Federation)**
 
